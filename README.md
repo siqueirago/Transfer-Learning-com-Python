@@ -18,7 +18,7 @@ Construir um modelo de aprendizado de máquina capaz de classificar imagens como
 
 O modelo alcançou uma alta acurácia na classificação de cães e gatos, demonstrando a eficácia da técnica de Transfer Learning para este tipo de problema. O uso da MobileNetV2 como base permitiu um treinamento mais rápido e eficiente, com resultados satisfatórios em termos de precisão.
 
-## 🧬Código:
+## 🛠Código:
 
 O código do projeto foi implementado em Python utilizando as bibliotecas TensorFlow e Keras, e está disponível no Google Colab. O código inclui as etapas de carregamento do dataset, pré-processamento das imagens, construção do modelo, treinamento, avaliação e salvamento do modelo treinado.
 
